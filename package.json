@@ -1,0 +1,1 @@
+{"name":"appliance-shop","version":"1.0.0","description":"Online appliance store","main":"index.html","scripts":{"start":"npx serve solution -p 8080","test":"playwright test"},"author":"Oleg","license":"MIT","devDependencies":{"@playwright/test":"^1.40.0","@types/node":"^25.0.9","serve":"^14.0.0","ts-node":"^10.9.2","typescript":"^5.9.3"}}
